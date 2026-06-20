@@ -37,4 +37,4 @@ If the app's data practices ever change, this policy will be updated and the
 ## Contact
 
 If you have any questions about this Privacy Policy, you can reach me at
-stevemg@gmail.com.
+stevengillis@gmail.com.

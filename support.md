@@ -5,7 +5,7 @@ Need help with TabTonic? You're in the right place.
 ## Contact
 
 For questions, bug reports, or feature requests, email me at
-**stevengillis@gmail.com** and I'll get back to you as soon as I can.
+**admin@digitaldiatonic.com** and I'll get back to you as soon as I can.
 
 ## Frequently Asked Questions
 
@@ -17,4 +17,4 @@ All tabs and files you create or import stay on your device. Nothing is
 uploaded anywhere.
 
 **How do I report a bug or request a feature?**
-Email me at stevengillis@gmail.com with a description of the issue or idea.
+Email me at admin@digitaldiatonic.com with a description of the issue or idea.

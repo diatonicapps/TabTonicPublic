@@ -2,7 +2,7 @@
 
 **Last updated: June 20, 2026**
 
-TabTonic is developed by Steve Gillis. This Privacy Policy explains how the
+TabTonic is developed by Digital Diatonic. This Privacy Policy explains how the
 app handles your information. In short: it doesn't collect any.
 
 ## Information We Collect
@@ -37,4 +37,4 @@ If the app's data practices ever change, this policy will be updated and the
 ## Contact
 
 If you have any questions about this Privacy Policy, you can reach me at
-stevengillis@gmail.com.
+admin@digitaldiatonic.com.
